@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "ter-indent": [
+      true,
+      "tab"
+    ],
+    "strict-boolean-expressions": false
+  },
+  "extends": [
+    "tslint-config-airbnb"
+  ]
+}
